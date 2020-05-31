@@ -1,0 +1,10 @@
+Study,    Year,PMID,experimental_events,experimental_total,control_events,control_total,Control.group,Scope.attendance,FIT.attendance,Ratio.attendence,.
+Segnan FS,2005,15741571,14,14517,8,8159,Sigmoidoscopy control group,32.3,32.3,1,
+Segnan FS,2007,17570205,12,6018,2,6075,Sigmoidoscopy control group,32.3,32.3,1,
+Segnan OC,2007,17570205,13,6021,2,6075,Colonoscopy control group,26.5,32.3,1.22,
+Hol FIT,2010,19671542,8,4700,14,4843,Sigmoidoscopy control group,32.4,61.5,1.9,
+Quintero (COLONPREV),2012,22356323,26,26703,32,26599,Colonoscopy control group,24.6,34.2,1.39,
+Gupta,2013,23921906,2,479,6,1593,Colonoscopy control group,24.6,40.7,1.65,
+Sali,2015,26719225,0,1036,6,9288,Colonoscopy control group,14.8,50.4,3.41,
+MACS,2006,16768659,0,224,0,234,Sigmoidoscopy control group,0,0,0,
+MACS,2006,16768659,0,214,0,234,Colonoscopy control group,0,0,0,
