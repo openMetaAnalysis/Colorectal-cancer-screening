@@ -1,6 +1,6 @@
-Colorectal cancer screening with 
+Colorectal cancer screening with fecal immunohistochemical test (FIT)
 ============================================
-A living systematic review fecal immunohistochemical test (FIT) 
+A living systematic review  
 
 **Clinical summary:** This meta-analysis suggests that clinical intervention *is* effective. However, the benefit among the patients who received screening almost significantly favors optical screening. Heterogeneity of results as measured by I<sup>2</sup> was '[might not be important](http://handbook-5-1.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 15%. This review updates previously published meta-analysis(es).(citation[s] below)
 
@@ -39,7 +39,7 @@ References:
 
 ### Randomized controlled trials
 #### New studie(s) *not* included in the most recent review above
-1. Imperiale TF, Gruber RN, Stump TE, Emmett TW, Monahan PO. Performance Characteristics of Fecal Immunochemical Tests for Colorectal Cancer and Advanced Adenomatous Polyps: A Systematic Review and Meta-analysis. Ann Intern Med. 2019 Mar 5;170(5):319-329. doi: [10.7326/M18-2390(http://dx.doi.org/10.7326/M18-2390). Epub 2019 Feb 26. PMID: [30802902](http://pubmed.gov/30802902)
+1. Imperiale TF, Gruber RN, Stump TE, Emmett TW, Monahan PO. Performance Characteristics of Fecal Immunochemical Tests for Colorectal Cancer and Advanced Adenomatous Polyps: A Systematic Review and Meta-analysis. Ann Intern Med. 2019 Mar 5;170(5):319-329. doi: [10.7326/M18-2390](http://dx.doi.org/10.7326/M18-2390). Epub 2019 Feb 26. PMID: [30802902](http://pubmed.gov/30802902)
 
 #### Trial(s) included in the review above
 1. Gupta S, Halm EA, Rockey DC, Hammons M, Koch M, Carter E, Valdez L, Tong L, Ahn C, Kashner M, Argenbright K, Tiro J, Geng Z, Pruitt S, Skinner CS. Comparative effectiveness of fecal immunochemical test outreach, colonoscopy outreach, and usual care for boosting colorectal cancer screening among the underserved: a randomized clinical trial. JAMA Intern Med. 2013 Oct 14;173(18):1725-32. doi: 10.1001/jamainternmed.2013.9294. PMID: [23921906](http://pubmed.gov/23921906); PMCID: PMC5228201.
