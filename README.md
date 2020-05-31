@@ -1,12 +1,10 @@
-Template: clinical question
+Colorectal cancer screening with 
 ============================================
-A living systematic review
+A living systematic review fecal immunohistochemical test (FIT) 
 
-Short url: http://
+**Clinical summary:** This meta-analysis suggests that clinical intervention *is* effective. However, the benefit among the patients who received screening almost significantly favors optical screening. Heterogeneity of results as measured by I<sup>2</sup> was '[might not be important](http://handbook-5-1.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 15%. This review updates previously published meta-analysis(es).(citation[s] below)
 
-**Clinical summary:** This meta-analysis suggests that clinical intervention *is or is not* effective. Heterogeneity of results as measured by I<sup>2</sup> was '[moderate](http://handbook-5-1.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at XX%. This review updates previously published meta-analysis(es).(citation[s] below)
-
-Meta-regression of common modulators (year of publication, study size, event rate in the control groups) finds that the outcome of the intervention is effected by xx.
+Meta-regression not performed.
 * [Reconciliation of conclusions with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20conclusions.pdf) (under construction)
 * [Keep current with this topic](files/searching/Keep-up.md) (under construction)
 
@@ -27,25 +25,29 @@ Acknowledgement: we acknowledge the essential work by the authors of the prior [
 The forest plot for the primary outcomes are below. Additional [forest plots](files/forest-plots) of secondary analyses may be available. 
 ![Principle results](files/forest-plots/Outcome-Primary.png)
 
-The meta-regression for the primary outcomes are below. Additional [meta-regressions](files/metaregression) of secondary analyses may be available. 
+<!-- The meta-regression for the primary outcomes are below. Additional [meta-regressions](files/metaregression) of secondary analyses may be available. 
 ![Principle results for benefit](files/metaregression/Outcome-Primary.png "Principle results for benefit]")
 
 The GRADE Profile is below. ![GRADE Profile](files/GRADE-profiles/Summary-of-findings-table.png "GRADE Profile")
-
+-->
 References:
 ----------------------------------
 
 ### Systematic review(s)
 #### Most recent review at time of last revision of this repository
-1. Ammendolia C, Stuber KJ, Rok E, Rampersaud R, Kennedy CA, Pennick V, Steenstra IA, de Bruin LK, Furlan AD. Nonoperative treatment for lumbar spinal stenosis with neurogenic claudication. Cochrane Database Syst Rev. 2013 Aug 30;8:CD010712. doi: [10.1002/14651858.CD010712](http://dx.doi.org/10.1002/14651858.CD010712). PMID: [23996271](http://pubmed.gov/23996271).
+
 
 ### Randomized controlled trials
-#### New trial(s) *not* included in the most recent review above
-1. Friedly JL, Comstock BA, Turner JA, Heagerty PJ, Deyo RA, Sullivan SD, Bauer Z, Bresnahan BW, Avins AL, Nedeljkovic SS, Nerenz DR, Standaert C, Kessler L, Akuthota V, Annaswamy T, Chen A, Diehn F, Firtch W, Gerges FJ, Gilligan C,
-Goldberg H, Kennedy DJ, Mandel S, Tyburski M, Sanders W, Sibell D, Smuck M, Wasan A, Won L, Jarvik JG. A randomized trial of epidural glucocorticoid injections for spinal stenosis. N Engl J Med. 2014 Jul 3;371(1):11-21. doi: [10.1056/NEJMoa1313265](http://dx.doi.org/10.1056/NEJMoa1313265). PMID: [24988555](http://pubmed.gov/24988555).
+#### New studie(s) *not* included in the most recent review above
+1. Imperiale TF, Gruber RN, Stump TE, Emmett TW, Monahan PO. Performance Characteristics of Fecal Immunochemical Tests for Colorectal Cancer and Advanced Adenomatous Polyps: A Systematic Review and Meta-analysis. Ann Intern Med. 2019 Mar 5;170(5):319-329. doi: [10.7326/M18-2390(http://dx.doi.org/10.7326/M18-2390). Epub 2019 Feb 26. PMID: [30802902](http://pubmed.gov/30802902)
 
 #### Trial(s) included in the review above
-1. Fukusaki M, Kobayashi I, Hara T, Sumikawa K. Symptoms of spinal stenosis do not improve after epidural steroid injection. Clin J Pain. 1998 Jun;14(2):148-51. PMID:[9647457](http://pubmed.gov/9647457).
+1. Gupta S, Halm EA, Rockey DC, Hammons M, Koch M, Carter E, Valdez L, Tong L, Ahn C, Kashner M, Argenbright K, Tiro J, Geng Z, Pruitt S, Skinner CS. Comparative effectiveness of fecal immunochemical test outreach, colonoscopy outreach, and usual care for boosting colorectal cancer screening among the underserved: a randomized clinical trial. JAMA Intern Med. 2013 Oct 14;173(18):1725-32. doi: 10.1001/jamainternmed.2013.9294. PMID: [23921906](http://pubmed.gov/23921906); PMCID: PMC5228201.
+2. Hol L, van Leerdam ME, van Ballegooijen M, van Vuuren AJ, van Dekken H, Reijerink JC, van der Togt AC, Habbema JD, Kuipers EJ. Screening for colorectal cancer: randomised trial comparing guaiac-based and immunochemical faecal occult blood testing and flexible sigmoidoscopy. Gut. 2010 Jan;59(1):62-8. doi: 10.1136/gut.2009.177089. PMID: [19671542](http://pubmed.gov/19671542).
+3. Multicentre Australian Colorectal-neoplasia Screening (MACS) Group. A comparison of colorectal neoplasia screening tests: a multicentre community-based study of the impact of consumer choice. Med J Aust. 2006 Jun 5;184(11):546-50. PMID: [16768659](http://pubmed.gov/16768659).
+4. Sali L, Mascalchi M, Falchini M, Ventura L, Carozzi F, Castiglione G, Delsanto S, Mallardi B, Mantellini P, Milani S, Zappa M, Grazzini G; SAVE study investigators. Reduced and Full-Preparation CT Colonography, Fecal Immunochemical Test, and Colonoscopy for Population Screening of Colorectal Cancer: A Randomized Trial. J Natl Cancer Inst. 2015 Dec 30;108(2):djv319. doi: 10.1093/jnci/djv319. PMID: [26719225](http://pubmed.gov/26719225).
+5. Segnan N, Senore C, Andreoni B, Arrigoni A, Bisanti L, Cardelli A, Castiglione G, Crosta C, DiPlacido R, Ferrari A, Ferraris R, Ferrero F, Fracchia M, Gasperoni S, Malfitana G, Recchia S, Risio M, Rizzetto M, Saracco G, Spandre M, Turco D, Turco P, Zappa M; SCORE2 Working Group-Italy. Randomized trial of different screening strategies for colorectal cancer: patient response and detection rates. J Natl Cancer Inst. 2005 Mar 2;97(5):347-57. doi: 10.1093/jnci/dji050. PMID: [15741571](http://pubmed.gov/15741571).
+6. Segnan N, Senore C, Andreoni B, Azzoni A, Bisanti L, Cardelli A, Castiglione G, Crosta C, Ederle A, Fantin A, Ferrari A, Fracchia M, Ferrero F, Gasperoni S, Recchia S, Risio M, Rubeca T, Saracco G, Zappa M; SCORE3 Working Group-Italy. Comparing attendance and detection rate of colonoscopy with sigmoidoscopy and FIT for colorectal cancer screening. Gastroenterology. 2007 Jun;132(7):2304-12. doi: 10.1053/j.gastro.2007.03.030. Epub 2007 Mar 21. PMID: [17570205](http://pubmed.gov/17570205).
 
 #### Trial(s) undergoing review
 None
