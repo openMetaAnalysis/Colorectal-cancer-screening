@@ -50,7 +50,7 @@ References:
 6. Segnan N, Senore C, Andreoni B, Azzoni A, Bisanti L, Cardelli A, Castiglione G, Crosta C, Ederle A, Fantin A, Ferrari A, Fracchia M, Ferrero F, Gasperoni S, Recchia S, Risio M, Rubeca T, Saracco G, Zappa M; SCORE3 Working Group-Italy. Comparing attendance and detection rate of colonoscopy with sigmoidoscopy and FIT for colorectal cancer screening. Gastroenterology. 2007 Jun;132(7):2304-12. doi: 10.1053/j.gastro.2007.03.030. Epub 2007 Mar 21. PMID: [17570205](http://pubmed.gov/17570205).
 
 #### Trial(s) undergoing review
-None
+1. Chen H, Lu M, Liu C, Zou S, Du L, Liao X, Dong D, Wei D, Gao Y, Zhu C, Zhu L, Zheng W, Xiao H, Kong Y, Yin H, Zhou H, Ying R, Wang B, Zhang J, Zhang X, Zhang Q, Zhang X, Zhang Y, Wang H, Guo L, Liu L, Ren J, Shi J, Li N, Miao X, Brenner H, Dai M. Comparative Evaluation of Participation and Diagnostic Yield of Colonoscopy vs Fecal Immunochemical Test vs Risk-Adapted Screening in Colorectal Cancer Screening: Interim Analysis of a Multicenter Randomized Controlled Trial (TARGET-C). Am J Gastroenterol. 2020 Apr 13. doi: 10.14309/ajg.0000000000000624. Epub ahead of print. PMID: [32282342](http://pubmed.gov/32282342).
 
 #### Trial(s) excluded - selected list of important trial(s)
 
